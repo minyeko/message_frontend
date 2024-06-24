@@ -25,7 +25,7 @@ function ChatRoom() {
     }, []);
     return (
         <div>
-            <h1>Chat Room</h1>
+            <h1>Chat Room Test</h1>
             <url>
                 {
                     chatroom.map((chatrooms) => {
